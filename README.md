@@ -1,5 +1,5 @@
 # taxcalculator
-The application printa out the receipt details for shopping baskets
+The application prints out the receipt details for shopping baskets
 
 The application is written in Java 
 
